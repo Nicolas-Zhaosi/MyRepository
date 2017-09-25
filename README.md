@@ -1,6 +1,6 @@
 # MyRepository
 
-This is my first Git repository, record my growth.
+
 Command | Features
 ------- | --------
 git init | # 初始化本地git仓库（创建新仓库）
@@ -89,3 +89,4 @@ git grep "delete from" | # 文件中搜索文本“delete from”
 git grep -e '#define' --and -e SORT_DIRENT | 
 git gc | 
 git fsck | 
+
